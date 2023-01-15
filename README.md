@@ -4,6 +4,8 @@
 
 ---
 
+[![OpenSSF
+Scorecard](https://api.securityscorecards.dev/projects/github.com/michaelmoss/memray/badge)](https://api.securityscorecards.dev/projects/github.com/michaelmoss/memray)
 ![OS Linux](https://img.shields.io/badge/OS-Linux-blue)
 ![OS MacOS](https://img.shields.io/badge/OS-MacOs-blue)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/memray)
